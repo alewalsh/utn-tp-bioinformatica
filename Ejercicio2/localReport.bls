@@ -1,0 +1,758 @@
+BLASTP 2.2.28+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: DBWkx7C
+           480,087 sequences; 182,233,107 total letters
+
+
+
+Query= NM_014069 Homo sapiens psoriasis susceptibility 1 candidate 2
+(PSORS1C2), mRNA.
+
+Length=289
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+lcl|P20785.1  RecName: Full=Collagen alpha-1(VI) chain; Flags: Pr...  32.0    7.6  
+
+
+>lcl|P20785.1 RecName: Full=Collagen alpha-1(VI) chain; Flags: Precursor [Gallus 
+gallus]
+Length=1019
+
+ Score = 32.0 bits (71),  Expect = 7.6, Method: Composition-based stats.
+ Identities = 16/31 (52%), Positives = 19/31 (61%), Gaps = 1/31 (3%)
+
+Query  20   APGDPGPLPAHQRHLRQRGPPLSPTRRGPRG  50
+            +PG  GP P  +    +RGPP SP  RGPRG
+Sbjct  412  SPGADGP-PGERGSNGERGPPGSPGDRGPRG  441
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.148    0.527    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 21891941595
+
+
+Query= NM_014069 Homo sapiens psoriasis susceptibility 1 candidate 2
+(PSORS1C2), mRNA.
+
+Length=289
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.145    0.488    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 21891941595
+
+
+Query= NM_014069 Homo sapiens psoriasis susceptibility 1 candidate 2
+(PSORS1C2), mRNA.
+
+Length=289
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+lcl|Q9UIG4.2  RecName: Full=Psoriasis susceptibility 1 candidate ...   261    3e-86
+lcl|Q7YR45.1  RecName: Full=Psoriasis susceptibility 1 candidate ...   153    2e-44
+lcl|Q80ZC9.1  RecName: Full=Psoriasis susceptibility 1 candidate ...  62.4    7e-11
+lcl|P27951.1  RecName: Full=IgA FC receptor; AltName: Full=Beta a...  43.1    0.002
+lcl|P16952.2  RecName: Full=Agglutinin receptor; AltName: Full=Ad...  42.7    0.003
+lcl|A8AUS0.1  RecName: Full=Streptococcal surface protein A; AltN...  42.0    0.005
+lcl|Q8WZ42.4  RecName: Full=Titin; AltName: Full=Connectin; AltNa...  40.0    0.020
+lcl|A8AUS1.1  RecName: Full=Streptococcal surface protein B; AltN...  38.5    0.064
+lcl|A3LYL7.2  RecName: Full=Myosin-1; AltName: Full=Class I uncon...  37.7    0.096
+lcl|P11657.1  RecName: Full=Major cell-surface adhesin PAc; AltNa...  37.4    0.13 
+lcl|Q24UI6.1  RecName: Full=Translation initiation factor IF-2 [D...  37.0    0.17 
+lcl|B0T167.1  RecName: Full=Translation initiation factor IF-2 [C...  36.6    0.27 
+lcl|P23504.2  RecName: Full=Cell surface antigen I/II; Contains: ...  35.8    0.51 
+lcl|A2ASS6.1  RecName: Full=Titin; AltName: Full=Connectin [Mus m...  34.7    1.2  
+lcl|Q6GDU5.1  RecName: Full=Fibronectin-binding protein A; Flags:...  32.7    4.3  
+lcl|B2HKS2.1  RecName: Full=Translation initiation factor IF-2 [M...  32.0    6.2  
+
+
+>lcl|Q9UIG4.2 RecName: Full=Psoriasis susceptibility 1 candidate gene 2 protein; 
+AltName: Full=Protein SPR1; Flags: Precursor [Homo sapiens]
+Length=136
+
+ Score =  261 bits (666),  Expect = 3e-86, Method: Compositional matrix adjust.
+ Identities = 136/136 (100%), Positives = 136/136 (100%), Gaps = 0/136 (0%)
+
+Query  14   MILNWKLLGILVLCLHTRGISGSEGHPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPL  73
+            MILNWKLLGILVLCLHTRGISGSEGHPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPL
+Sbjct  1    MILNWKLLGILVLCLHTRGISGSEGHPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPL  60
+
+Query  74   FEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDN  133
+            FEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDN
+Sbjct  61   FEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDN  120
+
+Query  134  RPQEEPDLDPPREEYR  149
+            RPQEEPDLDPPREEYR
+Sbjct  121  RPQEEPDLDPPREEYR  136
+
+
+>lcl|Q7YR45.1 RecName: Full=Psoriasis susceptibility 1 candidate gene 2 protein 
+homolog; AltName: Full=Protein SPR1; Flags: Precursor [Pan 
+troglodytes]
+Length=136
+
+ Score =  153 bits (387),  Expect = 2e-44, Method: Compositional matrix adjust.
+ Identities = 130/136 (96%), Positives = 131/136 (96%), Gaps = 0/136 (0%)
+
+Query  14   MILNWKLLGILVLCLHTRGISGSEGHPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPL  73
+            MILNWKLLGILVLCLHTRGISGSE HPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPL
+Sbjct  1    MILNWKLLGILVLCLHTRGISGSEDHPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPL  60
+
+Query  74   FEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDN  133
+            FEDPPP  PS PWRDLPETGVW PEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVD+
+Sbjct  61   FEDPPPPHPSPPWRDLPETGVWPPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDH  120
+
+Query  134  RPQEEPDLDPPREEYR  149
+            RPQEEPDLDPPREEYR
+Sbjct  121  RPQEEPDLDPPREEYR  136
+
+
+>lcl|Q80ZC9.1 RecName: Full=Psoriasis susceptibility 1 candidate gene 2 protein 
+homolog; AltName: Full=Protein SPR1; Flags: Precursor [Mus 
+musculus]
+Length=134
+
+ Score = 62.4 bits (150),  Expect = 7e-11, Method: Compositional matrix adjust.
+ Identities = 94/135 (70%), Positives = 109/135 (81%), Gaps = 1/135 (1%)
+
+Query  15   ILNWKLLGILVLCLHTRGISGSEGHPSHPPAEDREEAGSPTLPQGPPVPGDPWPGAPPLF  74
+            +L WKLLG+LVLCL   GISG+ G PS    +  EE  SP LP GPP+PGDPWPGAPPLF
+Sbjct  1    MLTWKLLGLLVLCLCAGGISGN-GDPSPGSTDTHEEEDSPPLPLGPPIPGDPWPGAPPLF  59
+
+Query  75   EDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDNR  134
+            ++PPP   +RPWRDLP++G W P+PP TDPP+PP PDDPWPAG QPPENPWPPAPE+D+ 
+Sbjct  60   DEPPPPGSNRPWRDLPDSGAWPPKPPSTDPPKPPLPDDPWPAGTQPPENPWPPAPEMDHE  119
+
+Query  135  PQEEPDLDPPREEYR  149
+             QEEPDLDPP+EEYR
+Sbjct  120  SQEEPDLDPPQEEYR  134
+
+
+>lcl|P27951.1 RecName: Full=IgA FC receptor; AltName: Full=Beta antigen; Short=B 
+antigen; Flags: Precursor [Streptococcus agalactiae]
+Length=1164
+
+ Score = 43.1 bits (100),  Expect = 0.002, Method: Composition-based stats.
+ Identities = 35/103 (34%), Positives = 47/103 (46%), Gaps = 14/103 (14%)
+
+Query  50   EAGSPTLPQGPPVPGDPWPGAPPLFEDPP--PTRPSRPWRDLPETGVWLPEPPRTDPPQP  107
+            E  +P  P  P +P  P     P   D P  P  P  P  + P     +PE P+T P  P
+Sbjct  823  ETNTPETPDTPKIPELPQAPDTPQAPDTPHVPESPKAP--EAPR----VPESPKT-PEAP  875
+
+Query  108  PRPDDP-WPAGPQPPENP-WPPAPEVDNRPQ--EEPDL-DPPR  145
+              P+ P  P  P+ PE+P  P AP V   P+  E P + +PP+
+Sbjct  876  HVPESPKAPEAPRVPESPKTPEAPHVPESPKTPEAPKIPEPPK  918
+
+
+ Score = 41.2 bits (95),  Expect = 0.008, Method: Composition-based stats.
+ Identities = 36/113 (32%), Positives = 45/113 (40%), Gaps = 19/113 (17%)
+
+Query  40   PSHPPAEDREEA-GSPTLPQGPPVPGDP-WPGAPPLFEDPPPTRPSRPWRDLPETGVWLP  97
+            P  P A D      SP  P+ P VP  P  P AP + E P      R           +P
+Sbjct  842  PDTPQAPDTPHVPESPKAPEAPRVPESPKTPEAPHVPESPKAPEAPR-----------VP  890
+
+Query  98   EPPRTDPPQPPRPDDP----WPAGPQPPENP-WPPAPEVDNRPQEEPDLDPPR  145
+            E P+T P  P  P+ P     P  P+PP+ P  P  P+V   P      D P+
+Sbjct  891  ESPKT-PEAPHVPESPKTPEAPKIPEPPKTPDVPKLPDVPKLPDVPKLPDAPK  942
+
+
+ Score = 33.9 bits (76),  Expect = 1.8, Method: Composition-based stats.
+ Identities = 31/108 (29%), Positives = 40/108 (37%), Gaps = 13/108 (12%)
+
+Query  74   FEDPPPTRPSRPWRDLPETGVWLPEPPRTD--PPQPPRPDDP-WPAGPQPPENPWPP---  127
+             E   P  P  P   +PE    LP+ P T   P  P  P+ P  P  P+ PE+P  P   
+Sbjct  822  LETNTPETPDTP--KIPE----LPQAPDTPQAPDTPHVPESPKAPEAPRVPESPKTPEAP  875
+
+Query  128  -APEVDNRPQEEPDLDPPREEYR*WSPLSRSVPRHLQAPTPSPPSDSP  174
+              PE    P+     + P+       P S   P   + P P    D P
+Sbjct  876  HVPESPKAPEAPRVPESPKTPEAPHVPESPKTPEAPKIPEPPKTPDVP  923
+
+
+>lcl|P16952.2 RecName: Full=Agglutinin receptor; AltName: Full=Adhesin SspB; 
+AltName: Full=SSP-5; Flags: Precursor [Streptococcus gordonii]
+Length=1500
+
+ Score = 42.7 bits (99),  Expect = 0.003, Method: Composition-based stats.
+ Identities = 38/139 (27%), Positives = 53/139 (38%), Gaps = 29/139 (21%)
+
+Query  52   GSPTLPQGPPVPGDP-WPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPP--  108
+            G PT P  P  P  P +    PL  +P P  PS  + + P   V  P+ P    P+ P  
+Sbjct  755  GVPTKPVAPTAPTQPMYETEKPL--EPAPVAPS--YENEPTPPVKTPDQPEPSKPEEPTY  810
+
+Query  109  ---RPDDPWPAGP----------QPPENPWPPAPEVDNRPQEEPDLDPPREEYR*WSPLS  155
+               +P +P P  P          + P+ P P  PE  N   E+P L+P        +P++
+Sbjct  811  ETEKPLEPAPVAPSYENEPTPPVKTPDQPEPSKPEEPNYETEKP-LEP--------APVA  861
+
+Query  156  RSVPRHLQAPTPSPPSDSP  174
+             S       P   P    P
+Sbjct  862  PSYENEPTPPVKIPDQPEP  880
+
+
+>lcl|A8AUS0.1 RecName: Full=Streptococcal surface protein A; AltName: Full=Adhesin 
+SspS; Flags: Precursor [Streptococcus gordonii str. 
+Challis substr. CH1]
+Length=1575
+
+ Score = 42.0 bits (97),  Expect = 0.005, Method: Composition-based stats.
+ Identities = 42/146 (29%), Positives = 58/146 (40%), Gaps = 13/146 (9%)
+
+Query  53   SPTLPQGPPV----PGDPWPGAPPLFEDP-PPTR-PSRPWRDLPETGVWLPEPPRTDPPQ  106
+            +PT PQ P      P +P P AP    +P PP + P +P    PE   +  E P    P 
+Sbjct  834  APTEPQAPTYEVEKPLEPAPVAPTYENEPTPPVKTPDQPEPSKPEEPTYETEKPLEPAPV  893
+
+Query  107  PPRPDDPWPAGPQPPENPWPPAPEVDNRPQEEPDLDP----PREEYR*WSPLSRSVPRHL  162
+             P  ++      + P+ P P  PE      E+P L+P    P  E     P+    P   
+Sbjct  894  VPTYENEPTPPVKTPDQPEPSKPEEPTYETEKP-LEPAPVAPTYENEPTPPV--KTPDQP  950
+
+Query  163  QAPTPSPPSDSP*ILPNLACLLKPLP  188
+            +   P  P+  P   P +A   K LP
+Sbjct  951  EPSKPEEPTYDPLPTPPVAPTPKQLP  976
+
+
+ Score = 33.1 bits (74),  Expect = 3.3, Method: Composition-based stats.
+ Identities = 34/125 (27%), Positives = 50/125 (40%), Gaps = 21/125 (17%)
+
+Query  37   EGHPSHPPAEDREEAGSPTLPQGPPV----PGDPWPGAPPLFEDP-PPTR-PSRPWRDLP  90
+            E  P+ PP +  ++   P+ P+ P      P +P P  P    +P PP + P +P    P
+Sbjct  859  ENEPT-PPVKTPDQP-EPSKPEEPTYETEKPLEPAPVVPTYENEPTPPVKTPDQPEPSKP  916
+
+Query  91   ETGVWLPEPP---------RTDPPQPP--RPDDPWPAGPQPPENPWPPAPEVDNRPQEEP  139
+            E   +  E P           + P PP   PD P P+ P+ P   + P P     P  + 
+Sbjct  917  EEPTYETEKPLEPAPVAPTYENEPTPPVKTPDQPEPSKPEEPT--YDPLPTPPVAPTPKQ  974
+
+Query  140  DLDPP  144
+               PP
+Sbjct  975  LPTPP  979
+
+
+>lcl|Q8WZ42.4 RecName: Full=Titin; AltName: Full=Connectin; AltName: Full=Rhabdomyosarcoma 
+antigen MU-RMS-40.14 [Homo sapiens]
+Length=34350
+
+ Score = 40.0 bits (92),  Expect = 0.020, Method: Composition-based stats.
+ Identities = 24/79 (30%), Positives = 32/79 (41%), Gaps = 11/79 (14%)
+
+Query  76     DPPPTRPSRPWRDLPETGVWLPEPPRTDPPQP----------PRPDDPWPAGPQPPENPW  125
+              +PPP  P  P +  PE    +P P + +PP P          P    P P   + P  P 
+Sbjct  10210  EPPPKVPELPEKPAPEEVAPVPIPKKVEPPAPKVPEVPKKPVPEEKKPVPVPKKEPAAP-  10268
+
+Query  126    PPAPEVDNRPQEEPDLDPP  144
+              P  PEV  +P  E  +  P
+Sbjct  10269  PKVPEVPKKPVPEEKIPVP  10287
+
+
+ Score = 35.4 bits (80),  Expect = 0.66, Method: Composition-based stats.
+ Identities = 29/90 (32%), Positives = 42/90 (47%), Gaps = 5/90 (6%)
+
+Query  54     PTLPQGP-PVPGDPWPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDD  112
+              P LP+ P P    P P  P   E P P  P  P + +PE    +P  P+ +P  PP+  +
+Sbjct  10216  PELPEKPAPEEVAPVP-IPKKVEPPAPKVPEVPKKPVPEEKKPVP-VPKKEPAAPPKVPE  10273
+
+Query  113    PWPAGPQPPEN-PWPPAPEVDNRPQEEPDL  141
+                P  P P E  P P A + +  P + P++
+Sbjct  10274  V-PKKPVPEEKIPVPVAKKKEAPPAKVPEV  10302
+
+
+ Score = 33.5 bits (75),  Expect = 2.8, Method: Composition-based stats.
+ Identities = 28/88 (32%), Positives = 34/88 (39%), Gaps = 12/88 (14%)
+
+Query  51     AGSPTLP--QGPPVPGDPWPG------APPLFEDPPPTRPSRPWRDLPETGVWLPEPPRT  102
+              A  P LP  + P VP +  P        P   E PP   P  P   +PE  V +P+ P  
+Sbjct  11638  AKKPELPPVKVPEVPKEVVPEKKVPLVVPKKPEAPPAKVPEVPKEVVPEKKVAVPKKPEV  11697
+
+Query  103    DPPQPPRPDDPWPAGPQPPENPWPPAPE  130
+               P + P      P  P   E P  P PE
+Sbjct  11698  PPAKVPEV----PKKPVLEEKPAVPVPE  11721
+
+
+ Score = 32.0 bits (71),  Expect = 8.2, Method: Composition-based stats.
+ Identities = 19/68 (28%), Positives = 30/68 (44%), Gaps = 1/68 (1%)
+
+Query  77     PPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDNRPQ  136
+              PP   P  P + +PE  V +P P + + P    P+ P    P+  + P P   +V+  P 
+Sbjct  10955  PPAKVPEVPKKPVPEKKVPVPAPKKVEAPPAKVPEVPKKLIPE-EKKPTPVPKKVEAPPP  11013
+
+Query  137    EEPDLDPP  144
+              + P    P
+Sbjct  11014  KVPKKREP  11021
+
+
+>lcl|A8AUS1.1 RecName: Full=Streptococcal surface protein B; AltName: Full=Adhesin 
+SspB; Flags: Precursor [Streptococcus gordonii str. 
+Challis substr. CH1]
+Length=1499
+
+ Score = 38.5 bits (88),  Expect = 0.064, Method: Composition-based stats.
+ Identities = 35/139 (25%), Positives = 53/139 (38%), Gaps = 29/139 (21%)
+
+Query  52   GSPTLPQGPPVPGDP-WPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPP--  108
+            G PT P  P  P  P +    PL  +P P  P+  + + P   V  P+ P    P+ P  
+Sbjct  754  GVPTKPVAPTAPTQPMYETEKPL--EPAPVVPT--YENEPTPPVKTPDQPEPSKPEEPTY  809
+
+Query  109  ---RPDDPWPAGP----------QPPENPWPPAPEVDNRPQEEPDLDPPREEYR*WSPLS  155
+               +P +P P  P          + P+ P P  PE      E+P L+P        +P++
+Sbjct  810  ETEKPLEPAPVAPTYENEPTPPVKIPDQPEPSKPEEPTYETEKP-LEP--------APVA  860
+
+Query  156  RSVPRHLQAPTPSPPSDSP  174
+             +       P  +P    P
+Sbjct  861  PTYENEPTPPVKTPDQPEP  879
+
+
+>lcl|A3LYL7.2 RecName: Full=Myosin-1; AltName: Full=Class I unconventional 
+myosin; AltName: Full=Type I myosin [Scheffersomyces stipitis 
+CBS 6054]
+Length=1256
+
+ Score = 37.7 bits (86),  Expect = 0.096, Method: Composition-based stats.
+ Identities = 26/93 (28%), Positives = 38/93 (41%), Gaps = 18/93 (19%)
+
+Query  78    PPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDNRPQE  137
+             P  RP+   +   ++ V     P+    Q PRP++  P   + P    PPAP V N+PQ 
+Sbjct  1006  PSARPTAASQPSYKSPVEQSYQPQVLAYQTPRPEEAKPVQRKAP----PPAPVVQNQPQR  1061
+
+Query  138   EPDLDPPREEYR*WSPLSRSVPRHLQAPTPSPP  170
+             +P    P               R ++   PSPP
+Sbjct  1062  QPQAIEP--------------VRPVKKTAPSPP  1080
+
+
+>lcl|P11657.1 RecName: Full=Major cell-surface adhesin PAc; AltName: Full=Antigen 
+I/II; Flags: Precursor [Streptococcus mutans]
+Length=1565
+
+ Score = 37.4 bits (85),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 34/124 (27%), Positives = 47/124 (38%), Gaps = 9/124 (7%)
+
+Query  54   PTLPQGPPVPGDPWPGAPPLFE-----DPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPP  108
+            PT P   P   +P    PP +E     +P P  PS      P T    P+    + P PP
+Sbjct  868  PTPPTRTPDQAEPNKPTPPTYETEKPLEPAPVEPSYEAEPTPPTRT--PDQAEPNKPTPP  925
+
+Query  109  RPDDPWPAGPQPPENPWPPAPEVDNRPQEEPDLDPPREEYR*WSPLSRSVPRHLQAPTPS  168
+              +   P  P P E  +   P       ++P+ + P E      P   + P +   PT  
+Sbjct  926  TYETEKPLEPAPVEPSYEAEPTPPTPTPDQPEPNKPVEPTYEVIPTPPTDPVYQDLPT--  983
+
+Query  169  PPSD  172
+            PPSD
+Sbjct  984  PPSD  987
+
+
+ Score = 33.5 bits (75),  Expect = 2.2, Method: Composition-based stats.
+ Identities = 34/121 (28%), Positives = 41/121 (34%), Gaps = 17/121 (14%)
+
+Query  54   PTLPQGPPVPGDP-WPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDD  112
+            PT P  P  P  P +    PL   P P  P+      P T    P+    + P PP  + 
+Sbjct  835  PTPPVKPTAPTKPTYETEKPL--KPAPVAPNYEKEPTPPTRT--PDQAEPNKPTPPTYET  890
+
+Query  113  PWPAGPQPPENPWP--PAPEVDNRPQEEPDLDPPREEYR*WSPLSRSVPRHLQAPTPSPP  170
+              P  P P E  +   P P      Q EP+  P    Y    PL          P P  P
+Sbjct  891  EKPLEPAPVEPSYEAEPTPPTRTPDQAEPN-KPTPPTYETEKPLE---------PAPVEP  940
+
+Query  171  S  171
+            S
+Sbjct  941  S  941
+
+
+>lcl|Q24UI6.1 RecName: Full=Translation initiation factor IF-2 [Desulfitobacterium 
+hafniense Y51]
+Length=971
+
+ Score = 37.0 bits (84),  Expect = 0.17, Method: Composition-based stats.
+ Identities = 32/101 (32%), Positives = 41/101 (41%), Gaps = 6/101 (6%)
+
+Query  44   PAEDREEAGSPT--LPQGPPVPGDPWPGAPPLFEDPPPTRP--SRPWRDLPETGVWLPEP  99
+            P  DR +   P    PQG    GD   G  P+ + P   RP   RP    P       + 
+Sbjct  246  PMGDRPQGQRPMGDRPQGQRPMGDRPQGQRPMGDRPQGQRPMGDRPQGQRPMGDRPQGQR  305
+
+Query  100  PRTDPPQPPRPDDPWPAGPQPPENP--WPPAPEVDNRPQEE  138
+            P  D PQ  RP    P G +PP+ P   P  P V+  P+ +
+Sbjct  306  PMGDRPQGQRPMGDRPQGQRPPQRPPATPGTPAVEQPPKRQ  346
+
+
+ Score = 33.5 bits (75),  Expect = 2.5, Method: Composition-based stats.
+ Identities = 29/99 (29%), Positives = 38/99 (38%), Gaps = 4/99 (4%)
+
+Query  44   PAEDREEAGSPT--LPQGPPVPGDPWPGAPPLFEDPPPTRP--SRPWRDLPETGVWLPEP  99
+            P  DR +   P    PQG    GD   G  P+ + P   RP   RP    P       + 
+Sbjct  256  PMGDRPQGQRPMGDRPQGQRPMGDRPQGQRPMGDRPQGQRPMGDRPQGQRPMGDRPQGQR  315
+
+Query  100  PRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDNRPQEE  138
+            P  D PQ  RP    PA P  P    PP  ++  + + +
+Sbjct  316  PMGDRPQGQRPPQRPPATPGTPAVEQPPKRQIGEKKKPQ  354
+
+
+>lcl|B0T167.1 RecName: Full=Translation initiation factor IF-2 [Caulobacter 
+sp. K31]
+Length=1045
+
+ Score = 36.6 bits (83),  Expect = 0.27, Method: Composition-based stats.
+ Identities = 29/88 (33%), Positives = 36/88 (41%), Gaps = 4/88 (5%)
+
+Query  66   PWPGAPPLFEDPPPTRPS--RPW--RDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPP  121
+            P PGAPP  + P   RP   RP+  R     G +    PR D   PPR   P  AG    
+Sbjct  244  PGPGAPPQGDRPQGDRPQGDRPFNQRAPRPDGPYNQRTPRPDAGGPPRGPRPEGAGGFRN  303
+
+Query  122  ENPWPPAPEVDNRPQEEPDLDPPREEYR  149
+            + P    P+ D    + P  D P +  R
+Sbjct  304  DRPQGDRPQGDRPQGDRPQGDRPTQTVR  331
+
+
+>lcl|P23504.2 RecName: Full=Cell surface antigen I/II; Contains: RecName: Full=Cell 
+surface antigen I; Contains: RecName: Full=Cell surface 
+antigen II; Flags: Precursor [Streptococcus mutans UA159]
+Length=1562
+
+ Score = 35.8 bits (81),  Expect = 0.51, Method: Composition-based stats.
+ Identities = 31/119 (26%), Positives = 44/119 (37%), Gaps = 7/119 (6%)
+
+Query  54   PTLPQGPPVPGDPWPGAPPLFE-----DPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPP  108
+            PT P   P   +P    PP +E     +P P  PS      P T    P+    + P PP
+Sbjct  865  PTPPTRTPDQAEPNKPTPPTYETEKPLEPAPVEPSYEAEPTPPTRT--PDQAEPNKPTPP  922
+
+Query  109  RPDDPWPAGPQPPENPWPPAPEVDNRPQEEPDLDPPREEYR*WSPLSRSVPRHLQAPTP  167
+              +   P  P P E  +   P       ++P+ + P E      P   + P +   PTP
+Sbjct  923  TYETEKPLEPAPVEPSYEAEPTPPTPTPDQPEPNKPVEPTYEVIPTPPTDPVYQDLPTP  981
+
+
+ Score = 33.5 bits (75),  Expect = 2.7, Method: Composition-based stats.
+ Identities = 34/121 (28%), Positives = 41/121 (34%), Gaps = 17/121 (14%)
+
+Query  54   PTLPQGPPVPGDP-WPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDD  112
+            PT P  P  P  P +    PL   P P  P+      P T    P+    + P PP  + 
+Sbjct  832  PTPPVKPTAPTKPTYETEKPL--KPAPVAPNYEKEPTPPTRT--PDQAEPNKPTPPTYET  887
+
+Query  113  PWPAGPQPPENPWP--PAPEVDNRPQEEPDLDPPREEYR*WSPLSRSVPRHLQAPTPSPP  170
+              P  P P E  +   P P      Q EP+  P    Y    PL          P P  P
+Sbjct  888  EKPLEPAPVEPSYEAEPTPPTRTPDQAEPN-KPTPPTYETEKPLE---------PAPVEP  937
+
+Query  171  S  171
+            S
+Sbjct  938  S  938
+
+
+>lcl|A2ASS6.1 RecName: Full=Titin; AltName: Full=Connectin [Mus musculus]
+Length=35213
+
+ Score = 34.7 bits (78),  Expect = 1.2, Method: Composition-based stats.
+ Identities = 31/109 (28%), Positives = 44/109 (40%), Gaps = 5/109 (5%)
+
+Query  43     PPAEDREEAGSPTLPQGPPVPGDPWPGAPPLFED--PPPTRPSRPWRDLPETGVWLPEPP  100
+              P  E +E     T P GPP   +    + P  ++  P  TRP+ P +    T V    P 
+Sbjct  12054  PVPEVQETVPEKTRPVGPPKKPEATTVSVPEVQETIPEKTRPAAPPKKPEATAVPETIPE  12113
+
+Query  101    RTDPPQPP-RPDDPWPAGPQPPEN--PWPPAPEVDNRPQEEPDLDPPRE  146
+              +T P  PP RP+      P+  +   P    P V  +  E P +  P E
+Sbjct  12114  KTRPEAPPKRPEATTVPVPEADQAVVPEKKVPRVPPKKVEAPPITVPEE  12162
+
+
+ Score = 33.9 bits (76),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 43/162 (27%), Positives = 60/162 (37%), Gaps = 30/162 (19%)
+
+Query  37     EGHPSHPPAED-REEAGSPTLPQGPPVPGDPWPGAPPLFED--PPPTRPSRPWRDLPETG  93
+              E  P  P A    E     T P  PP   +      P  ++  P  TRP  P +    T 
+Sbjct  11969  EAPPKRPEARTVPETVPEKTRPMAPPKKPEATTLPVPEVQETVPEKTRPVGPPKKPEATT  12028
+
+Query  94     VWLPE-----PPRTDPPQPPR-------------PDDPWPAG-PQPPENPWPPAPEV-DN  133
+              V +PE     P +T PP+ P              P+   P G P+ PE      PEV + 
+Sbjct  12029  VPVPEVQETIPEKTRPPKKPEATPVPVPEVQETVPEKTRPVGPPKKPEATTVSVPEVQET  12088
+
+Query  134    RPQEEPDLDPPREEYR*WSPLSRSVPRHLQAPT-PSPPSDSP  174
+               P++     PP++      P + +VP  +   T P  P   P
+Sbjct  12089  IPEKTRPAAPPKK------PEATAVPETIPEKTRPEAPPKRP  12124
+
+
+>lcl|Q6GDU5.1 RecName: Full=Fibronectin-binding protein A; Flags: Precursor 
+[Staphylococcus aureus subsp. aureus MRSA252]
+Length=965
+
+ Score = 32.7 bits (73),  Expect = 4.3, Method: Composition-based stats.
+ Identities = 16/36 (44%), Positives = 20/36 (56%), Gaps = 3/36 (8%)
+
+Query  50   EAGSPTLPQGPPVPGDPWPGAPPLFEDPPPTRPSRP  85
+            E G PT P  P VP +P    PP  E+  P +PS+P
+Sbjct  864  EPGKPT-PPTPEVPAEPGKPVPPAKEE--PKKPSKP  896
+
+
+>lcl|B2HKS2.1 RecName: Full=Translation initiation factor IF-2 [Mycobacterium 
+marinum M]
+Length=947
+
+ Score = 32.0 bits (71),  Expect = 6.2, Method: Composition-based stats.
+ Identities = 31/83 (37%), Positives = 35/83 (42%), Gaps = 11/83 (13%)
+
+Query  52   GSPTLPQGPPVPGDPWPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEP-PRTDPPQPPRP  110
+            G P  PQ P  PG   PGA P     P  R  R   +   +   +  P PR   PQ PRP
+Sbjct  163  GKPAAPQAPH-PGMA-PGARPGPVPKPGVRTPRVGNNPFSSAQPVDRPIPR---PQAPRP  217
+
+Query  111  DDPWPAGPQP----PENPWPPAP  129
+              P P  P+P    P N  PP P
+Sbjct  218  GAPRPGAPRPGGASPGN-MPPRP  239
+
+
+ Score = 31.6 bits (70),  Expect = 8.2, Method: Composition-based stats.
+ Identities = 23/74 (31%), Positives = 26/74 (35%), Gaps = 13/74 (18%)
+
+Query  97   PEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVDNRPQEEPDLDPPREEYR*WSPLSR  156
+            P P +   PQ P P     A P P   P    P V N P                 P+ R
+Sbjct  160  PTPGKPAAPQAPHPGMAPGARPGPVPKPGVRTPRVGNNPFSSA------------QPVDR  207
+
+Query  157  SVPRHLQAPTPSPP  170
+             +PR  QAP P  P
+Sbjct  208  PIPRP-QAPRPGAP  220
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.147    0.521    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 21891941595
+
+
+Query= NM_014069 Homo sapiens psoriasis susceptibility 1 candidate 2
+(PSORS1C2), mRNA.
+
+Length=289
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+lcl|A6NMZ7.2  RecName: Full=Collagen alpha-6(VI) chain; Flags: Pr...  41.6    0.006
+lcl|A8TX70.1  RecName: Full=Collagen alpha-5(VI) chain; AltName: ...  39.7    0.031
+lcl|P15989.2  RecName: Full=Collagen alpha-3(VI) chain; Flags: Pr...  34.7    1.00 
+lcl|Q6FPN0.1  RecName: Full=Adhesin AWP1; Flags: Precursor [[Cand...  34.3    1.2  
+
+
+>lcl|A6NMZ7.2 RecName: Full=Collagen alpha-6(VI) chain; Flags: Precursor [Homo 
+sapiens]
+Length=2263
+
+ Score = 41.6 bits (96),  Expect = 0.006, Method: Composition-based stats.
+ Identities = 33/79 (42%), Positives = 37/79 (47%), Gaps = 10/79 (13%)
+
+Query  162   AGGQGFSGGWGPAGQGSSGRGG*GGSVLGGSGSQTPVSGRSLQGRLGRVGGGSSKRGGAP  221
+             AG QG  G      QG+ G  G     LG  G+      R LQG  G  G GS  R GA 
+Sbjct  1614  AGNQGRLGS-----QGNKGEPG----DLGEKGAVGFPGPRGLQGNDGSPGYGSVGRKGAK  1664
+
+Query  222   GQ-GSPGTGGP*GNVGEPA  239
+             GQ G PG  GP G +G+P 
+Sbjct  1665  GQEGFPGESGPKGEIGDPG  1683
+
+
+ Score = 32.7 bits (73),  Expect = 4.7, Method: Composition-based stats.
+ Identities = 31/92 (34%), Positives = 40/92 (43%), Gaps = 19/92 (21%)
+
+Query  163   GGQGFSGGWGPAGQ-GSSGRGG*GGSVLGGSGSQTPVSGRSLQGRLGRVG-------GGS  214
+             G +G+ G  G AG+ G+ G  G  G+  G  G++ P   R L G+ G VG        G 
+Sbjct  1413  GSEGYLGEEGIAGERGAPGPVGEQGTK-GCYGTKGPKGNRGLNGQEGEVGENGIDGLNGE  1471
+
+Query  215   SKRGGAPG----------QGSPGTGGP*GNVG  236
+                 G PG          QGSPG  G  G+ G
+Sbjct  1472  QGDNGLPGRKGEKGDEGSQGSPGKRGTPGDRG  1503
+
+
+>lcl|A8TX70.1 RecName: Full=Collagen alpha-5(VI) chain; AltName: Full=Collagen 
+alpha-1(XXIX) chain; AltName: Full=von Willebrand factor 
+A domain-containing protein 4; Flags: Precursor [Homo sapiens]
+Length=2615
+
+ Score = 39.7 bits (91),  Expect = 0.031, Method: Composition-based stats.
+ Identities = 40/108 (37%), Positives = 47/108 (44%), Gaps = 11/108 (10%)
+
+Query  149   RSGSS*GRLSTSGAGGQGFSGGWGPAG-QGSSGRGG*GGSVLGGSGSQTPVSGRSLQGRL  207
+             RSG    + S S  G +G  G  G  G  G  G  G  G+ LG  G Q P   +  QG  
+Sbjct  1538  RSGQKGVQGSPSSRGSRGREGQRGLRGVSGEPGNPGPTGT-LGAEGLQGP---QGSQGNP  1593
+
+Query  208   GRVGGGSSKRGGAPGQGSPGTGGP*GNVGEPASSRSSAGG*EGWPSLP  255
+             GR G   S+    P QGSPG  G  G+ G P        G +G P LP
+Sbjct  1594  GRKGEKGSQGQKGP-QGSPGLMGAKGSTGRPGLL-----GKKGEPGLP  1635
+
+
+ Score = 37.7 bits (86),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 47/139 (34%), Positives = 55/139 (40%), Gaps = 22/139 (16%)
+
+Query  137   GLHYLYSSRGGSRSGSS*GRLSTSGAGGQ----GFSGGWGPAGQ--------GSSGRGG*  184
+             G H     +G      S G   + GA GQ    GF G  G  GQ        GS G  G 
+Sbjct  1476  GCHGFPGIKGEKGDPGSQGSPGSRGAPGQYGEKGFPGDPGNPGQNNNIKGQKGSKGEQGR  1535
+
+Query  185   GGSVLGGSGSQTPVSGRSLQGRLGRVG-GGSSKRGGAPGQ----GSPGTGGP*GNVGEPA  239
+              G   G  G Q   S R  +GR G+ G  G S   G PG     G+ G  GP G+ G P 
+Sbjct  1536  QGRS-GQKGVQGSPSSRGSRGREGQRGLRGVSGEPGNPGPTGTLGAEGLQGPQGSQGNPG  1594
+
+Query  240   --SSRSSAG--G*EGWPSL  254
+                 + S G  G +G P L
+Sbjct  1595  RKGEKGSQGQKGPQGSPGL  1613
+
+
+ Score = 33.1 bits (74),  Expect = 3.5, Method: Composition-based stats.
+ Identities = 51/163 (31%), Positives = 65/163 (40%), Gaps = 26/163 (16%)
+
+Query  81    RRGQEILRTPPYGFRIKPRE*GRGLRRQAKLGRIHGESEGGEGVGAWRCLGTERLRGLHY  140
+             R GQ+ ++  P     + RE  RGLR       + GE       G    LG E L+G   
+Sbjct  1538  RSGQKGVQGSPSSRGSRGREGQRGLRG------VSGEPGNPGPTGT---LGAEGLQGPQ-  1587
+
+Query  141   LYSSRGGSRSGSS*GRLSTSGAGGQ-GFSGGWGPAG-QGSSGRGG*GGS-----VLGGSG  193
+                   GS+     GR    G+ GQ G  G  G  G +GS+GR G  G      + G  G
+Sbjct  1588  ------GSQGNP--GRKGEKGSQGQKGPQGSPGLMGAKGSTGRPGLLGKKGEPGLPGDLG  1639
+
+Query  194   SQTPVSGRSLQGRLGRVGGGSSKRGGAPG-QGSPGTGGP*GNV  235
+                    R  QG  G  G G   R G  G +G PG  G  G++
+Sbjct  1640  PVGQTGQRGRQGDSGIPGYGQMGRKGVKGPRGFPGDAGQKGDI  1682
+
+
+>lcl|P15989.2 RecName: Full=Collagen alpha-3(VI) chain; Flags: Precursor [Gallus 
+gallus]
+Length=3137
+
+ Score = 34.7 bits (78),  Expect = 1.00, Method: Composition-based stats.
+ Identities = 38/126 (30%), Positives = 50/126 (40%), Gaps = 18/126 (14%)
+
+Query  131   GTERLRGLHYLYSSRGGS-RSGSS*GRLSTSGAGGQGFSGGWGPAGQGSSGRGG*G-GSV  188
+             G E  +GL      +G S R GS   +      G +G  G  G +G  ++ RG  G    
+Sbjct  2121  GEEGDKGLPGFSGEKGFSGRRGSKGAKGERGERGDRGLRGDPGESGADNTQRGTRGQKGE  2180
+
+Query  189   LGGSGSQTPVSGRSLQGRLGRVGGGSSKRG-----------GAPG----QGSPGTGGP*G  233
+             +G  G   P   R   G +GR  G + +RG           G PG    QG  G  GP G
+Sbjct  2181  IGQMGEPGPAGQRGQDGGVGR-KGMAGRRGPIGVKGTKGALGQPGPAGEQGMRGPQGPPG  2239
+
+Query  234   NVGEPA  239
+              +G P 
+Sbjct  2240  QIGTPG  2245
+
+
+ Score = 32.0 bits (71),  Expect = 8.0, Method: Composition-based stats.
+ Identities = 32/90 (36%), Positives = 42/90 (47%), Gaps = 7/90 (8%)
+
+Query  150   SGSS*GRLSTSGAGGQ-GFSGGWGPAGQGSSGRGG*GG-SVLGGSGSQTPVSGRSLQGRL  207
+             SG+   +  T G  G+ G  G  GPAGQ    RG  GG    G +G + P+  +  +G L
+Sbjct  2165  SGADNTQRGTRGQKGEIGQMGEPGPAGQ----RGQDGGVGRKGMAGRRGPIGVKGTKGAL  2220
+
+Query  208   GRVGGGSSKRGGAPGQGSPGTGGP*GNVGE  237
+             G+ G    +    P QG PG  G  G  GE
+Sbjct  2221  GQPGPAGEQGMRGP-QGPPGQIGTPGIRGE  2249
+
+
+>lcl|Q6FPN0.1 RecName: Full=Adhesin AWP1; Flags: Precursor [[Candida] glabrata 
+CBS 138]
+Length=870
+
+ Score = 34.3 bits (77),  Expect = 1.2, Method: Composition-based stats.
+ Identities = 29/91 (32%), Positives = 41/91 (45%), Gaps = 9/91 (10%)
+
+Query  144  SRGGSRSGSS*GRLSTSGAGGQGFSG---------GWGPAGQGSSGRGG*GGSVLGGSGS  194
+            S  G++SG+S G  +     GQ  SG         G   +GQ  +G+ G G +  G +G 
+Sbjct  665  SADGNQSGTSSGTGNGQAGSGQAGSGQVGSGQAGAGQAGSGQAGAGQAGSGQAGAGQAGL  724
+
+Query  195  QTPVSGRSLQGRLGRVGGGSSKRGGAPGQGS  225
+                SG+S  G+   + G  S RGG    GS
+Sbjct  725  DNTASGQSEGGQASAMDGDQSGRGGQSNSGS  755
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.148    0.499    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 21891941595
+
+
+Query= NM_014069 Homo sapiens psoriasis susceptibility 1 candidate 2
+(PSORS1C2), mRNA.
+
+Length=288
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+lcl|Q28EC1.1  RecName: Full=Ras-GEF domain-containing family memb...  34.7    0.83 
+
+
+>lcl|Q28EC1.1 RecName: Full=Ras-GEF domain-containing family member 1B [Xenopus 
+tropicalis]
+Length=472
+
+ Score = 34.7 bits (78),  Expect = 0.83, Method: Compositional matrix adjust.
+ Identities = 16/40 (40%), Positives = 23/40 (58%), Gaps = 7/40 (18%)
+
+Query  212  YLVLTSPVFSSDSLSLLSYLASRPRPHLPPTRSSCPRDRW  251
+            + VLT+P+FS D+L L SY +  P  H+        +DRW
+Sbjct  429  HYVLTAPIFSEDALYLASYESEGPENHI-------EKDRW  461
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.144    0.483    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 21765398580
+
+
+Query= NM_014069 Homo sapiens psoriasis susceptibility 1 candidate 2
+(PSORS1C2), mRNA.
+
+Length=288
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.340    0.156    0.570    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 21765398580
+
+
+  Database: DBWkx7C
+    Posted date:  Nov 12, 2022  11:22 PM
+  Number of letters in database: 182,233,107
+  Number of sequences in database:  480,087
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

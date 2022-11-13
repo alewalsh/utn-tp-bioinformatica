@@ -1,0 +1,44 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+NM_014069      LRKHDFYFSVSWKQQLSTDSSCRRPPGGRREHSTIALPQRSRGQEDRVGGRCGRGLEAR*	59
+Q80ZC9.1       ------------------------------------------------------------	0
+Q9UIG4.2       ------------------------------------------------------------	0
+Q7YR45.1       ------------------------------------------------------------	0
+                                                                           
+
+NM_014069      ESRLRLSEEKTGDVRTKYGSQEGTGNIENTTLRVQNKTEGMRKRFKETG*IGKNSRGIRG	118
+Q80ZC9.1       ------------------------------------------------------------	0
+Q9UIG4.2       ------------------------------------------------------------	0
+Q7YR45.1       ------------------------------------------------------------	0
+                                                                           
+
+NM_014069      WRGRGCLEMPGNRTAEGTPLSVLFPGWV*VWLLLRSVVHLRGRRPGVFWGLGSCRPRVVR	177
+Q80ZC9.1       ------------------------------------------------------------	0
+Q9UIG4.2       ------------------------------------------------------------	0
+Q7YR45.1       ------------------------------------------------------------	0
+                                                                           
+
+NM_014069      PGRLRRIRSRRFREPDSSFRQVSPGTTGAGRRRIFKERGCPWPRVTGDWGALRQCWGACL	237
+Q80ZC9.1       ----------------------------------------------------MLTWKLLG	8
+Q9UIG4.2       ---------------------------------------------------MILNWKLLG	9
+Q7YR45.1       ---------------------------------------------------MILNWKLLG	9
+                                                                      *    
+
+NM_014069      LSVLCGWVRGVALAA*DASGVQAKDQDPQELPVEDHGYVLAPKAGVG*V-----------	284
+Q80ZC9.1       LLVLCLCAGGISGN-GDPSPG----------STDTHEEEDSPPLPLGPPIPGDPWPGAPP	57
+Q9UIG4.2       ILVLCLHTRGISGSEGHPSHP----------PAEDREEAGSPTLPQGPPVPGDPWPGAPP	59
+Q7YR45.1       ILVLCLHTRGISGSEDHPSHP----------PAEDREEAGSPTLPQGPPVPGDPWPGAPP	59
+               : ***  . *::    . *             .: :    :*    *             
+
+NM_014069      ------------------------------------------------------------	284
+Q80ZC9.1       LFDEPPPPGSNRPWRDLPDSGAWPPKPPSTDPPKPPLPDDPWPAGTQPPENPWPPAPEMD	117
+Q9UIG4.2       LFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVD	119
+Q7YR45.1       LFEDPPPPHPSPPWRDLPETGVWPPEPPRTDPPQPPRPDDPWPAGPQPPENPWPPAPEVD	119
+                                                                           
+
+NM_014069      -----------------	284
+Q80ZC9.1       HESQEEPDLDPPQEEYR	134
+Q9UIG4.2       NRPQEEPDLDPPREEYR	136
+Q7YR45.1       HRPQEEPDLDPPREEYR	136
+                                

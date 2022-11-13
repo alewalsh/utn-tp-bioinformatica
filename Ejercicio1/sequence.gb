@@ -1,0 +1,217 @@
+LOCUS       NM_014069                868 bp    mRNA    linear   PRI 25-NOV-2021
+DEFINITION  Homo sapiens psoriasis susceptibility 1 candidate 2 (PSORS1C2),
+            mRNA.
+ACCESSION   NM_014069
+VERSION     NM_014069.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 868)
+  AUTHORS   Luck K, Kim DK, Lambourne L, Spirohn K, Begg BE, Bian W, Brignall
+            R, Cafarelli T, Campos-Laborie FJ, Charloteaux B, Choi D, Cote AG,
+            Daley M, Deimling S, Desbuleux A, Dricot A, Gebbia M, Hardy MF,
+            Kishore N, Knapp JJ, Kovacs IA, Lemmens I, Mee MW, Mellor JC,
+            Pollis C, Pons C, Richardson AD, Schlabach S, Teeking B, Yadav A,
+            Babor M, Balcha D, Basha O, Bowman-Colin C, Chin SF, Choi SG,
+            Colabella C, Coppin G, D'Amata C, De Ridder D, De Rouck S,
+            Duran-Frigola M, Ennajdaoui H, Goebels F, Goehring L, Gopal A,
+            Haddad G, Hatchi E, Helmy M, Jacob Y, Kassa Y, Landini S, Li R, van
+            Lieshout N, MacWilliams A, Markey D, Paulson JN, Rangarajan S,
+            Rasla J, Rayhan A, Rolland T, San-Miguel A, Shen Y, Sheykhkarimli
+            D, Sheynkman GM, Simonovsky E, Tasan M, Tejeda A, Tropepe V,
+            Twizere JC, Wang Y, Weatheritt RJ, Weile J, Xia Y, Yang X,
+            Yeger-Lotem E, Zhong Q, Aloy P, Bader GD, De Las Rivas J, Gaudet S,
+            Hao T, Rak J, Tavernier J, Hill DE, Vidal M, Roth FP and Calderwood
+            MA.
+  TITLE     A reference map of the human binary protein interactome
+  JOURNAL   Nature 580 (7803), 402-408 (2020)
+   PUBMED   32296183
+REFERENCE   2  (bases 1 to 868)
+  AUTHORS   Abbas Zadeh S, Mlitz V, Lachner J, Golabi B, Mildner M, Pammer J,
+            Tschachler E and Eckhart L.
+  TITLE     Phylogenetic profiling and gene expression studies implicate a
+            primary role of PSORS1C2 in terminal differentiation of
+            keratinocytes
+  JOURNAL   Exp Dermatol 26 (4), 352-358 (2017)
+   PUBMED   27943452
+  REMARK    GeneRIF: In summary, our results identify PSORS1C2 as a
+            keratinocyte cornification-associated protein that has originated
+            in evolutionarily basal mammals and has undergone gene inactivation
+            in association with the loss of the skin barrier function in
+            aquatic mammals.
+REFERENCE   3  (bases 1 to 868)
+  AUTHORS   Chubb D, Weinhold N, Broderick P, Chen B, Johnson DC, Forsti A,
+            Vijayakrishnan J, Migliorini G, Dobbins SE, Holroyd A, Hose D,
+            Walker BA, Davies FE, Gregory WA, Jackson GH, Irving JA, Pratt G,
+            Fegan C, Fenton JA, Neben K, Hoffmann P, Nothen MM, Muhleisen TW,
+            Eisele L, Ross FM, Straka C, Einsele H, Langer C, Dorner E, Allan
+            JM, Jauch A, Morgan GJ, Hemminki K, Houlston RS and Goldschmidt H.
+  TITLE     Common variation at 3q26.2, 6p21.33, 17p11.2 and 22q13.1 influences
+            multiple myeloma risk
+  JOURNAL   Nat Genet 45 (10), 1221-1225 (2013)
+   PUBMED   23955597
+REFERENCE   4  (bases 1 to 868)
+  AUTHORS   Li J, Glessner JT, Zhang H, Hou C, Wei Z, Bradfield JP, Mentch FD,
+            Guo Y, Kim C, Xia Q, Chiavacci RM, Thomas KA, Qiu H, Grant SF,
+            Furth SL, Hakonarson H and Sleiman PM.
+  TITLE     GWAS of blood cell traits identifies novel associated loci and
+            epistatic interactions in Caucasian and African-American children
+  JOURNAL   Hum Mol Genet 22 (7), 1457-1464 (2013)
+   PUBMED   23263863
+REFERENCE   5  (bases 1 to 868)
+  AUTHORS   Kim DK, Cho MH, Hersh CP, Lomas DA, Miller BE, Kong X, Bakke P,
+            Gulsvik A, Agusti A, Wouters E, Celli B, Coxson H, Vestbo J, MacNee
+            W, Yates JC, Rennard S, Litonjua A, Qiu W, Beaty TH, Crapo JD,
+            Riley JH, Tal-Singer R and Silverman EK.
+  CONSRTM   ECLIPSE, ICGN, and COPDGene Investigators
+  TITLE     Genome-wide association analysis of blood biomarkers in chronic
+            obstructive pulmonary disease
+  JOURNAL   Am J Respir Crit Care Med 186 (12), 1238-1247 (2012)
+   PUBMED   23144326
+REFERENCE   6  (bases 1 to 868)
+  AUTHORS   Szczerkowska-Dobosz A, Rebala K, Szczerkowska Z and
+            Witkowska-Tobola A.
+  TITLE     Correlation of HLA-Cw*06 allele frequency with some clinical
+            features of psoriasis vulgaris in the population of northern Poland
+  JOURNAL   J Appl Genet 45 (4), 473-476 (2004)
+   PUBMED   15523160
+  REMARK    GeneRIF: HLA-Cw*06 allele frequency is associated with psoriasis
+REFERENCE   7  (bases 1 to 868)
+  AUTHORS   Holm SJ, Carlen LM, Mallbris L, Stahle-Backdahl M and O'Brien KP.
+  TITLE     Polymorphisms in the SEEK1 and SPR1 genes on 6p21.3 associate with
+            psoriasis in the Swedish population
+  JOURNAL   Exp Dermatol 12 (4), 435-444 (2003)
+   PUBMED   12930300
+  REMARK    GeneRIF: In a case-control study, five of the nine single
+            nucleotide polymorphisms (SNPs) found in SEEK1 were associated with
+            psoriasis, while one of the four SNPs found in SPR1 showed
+            association.
+REFERENCE   8  (bases 1 to 868)
+  AUTHORS   Chang YT, Tsai SF, Lin MW, Liu HN, Lee DD, Shiao YM, Chin PJ and
+            Wang WJ.
+  TITLE     SPR1 gene near HLA-C is unlikely to be a psoriasis susceptibility
+            gene
+  JOURNAL   Exp Dermatol 12 (3), 307-314 (2003)
+   PUBMED   12823445
+  REMARK    GeneRIF: HLA-Cw6 remains the major risk allele in Chinese
+            psoriatics, and that the SPR1 gene might not play an important role
+            in the causation of PV.
+REFERENCE   9  (bases 1 to 868)
+  AUTHORS   Oka A, Tamiya G, Tomizawa M, Ota M, Katsuyama Y, Makino S, Shiina
+            T, Yoshitome M, Iizuka M, Sasao Y, Iwashita K, Kawakubo Y, Sugai J,
+            Ozawa A, Ohkido M, Kimura M, Bahram S and Inoko H.
+  TITLE     Association analysis using refined microsatellite markers localizes
+            a susceptibility locus for psoriasis vulgaris within a 111 kb
+            segment telomeric to the HLA-C gene
+  JOURNAL   Hum Mol Genet 8 (12), 2165-2170 (1999)
+   PUBMED   10545595
+REFERENCE   10 (bases 1 to 868)
+  AUTHORS   Steinert PM and Marekov LN.
+  TITLE     Direct evidence that involucrin is a major early isopeptide
+            cross-linked component of the keratinocyte cornified cell envelope
+  JOURNAL   J Biol Chem 272 (3), 2021-2030 (1997)
+   PUBMED   8999895
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AF484420.1 and AL662844.12.
+            On Nov 22, 2018 this sequence version replaced NM_014069.2.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AB031480.1, AF484420.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145893, SAMEA2147596
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000259845.5/ ENSP00000259845.4
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-287               AF484420.1         285-571
+            288-288             AL662844.12        77602-77602         c
+            289-545             AF484420.1         573-829
+            546-766             AL662844.12        77124-77344         c
+            767-868             AF484420.1         1051-1152
+FEATURES             Location/Qualifiers
+     source          1..868
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6p21.33"
+     gene            1..868
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /note="psoriasis susceptibility 1 candidate 2"
+                     /db_xref="GeneID:170680"
+                     /db_xref="HGNC:HGNC:17199"
+                     /db_xref="MIM:613526"
+     exon            1..95
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             41..451
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /note="psoriasis susceptibility 1 candidate gene 2
+                     protein"
+                     /codon_start=1
+                     /product="psoriasis susceptibility 1 candidate gene 2
+                     protein precursor"
+                     /protein_id="NP_054788.2"
+                     /db_xref="CCDS:CCDS4694.1"
+                     /db_xref="GeneID:170680"
+                     /db_xref="HGNC:HGNC:17199"
+                     /db_xref="MIM:613526"
+                     /translation="MILNWKLLGILVLCLHTRGISGSEGHPSHPPAEDREEAGSPTLP
+                     QGPPVPGDPWPGAPPLFEDPPPTRPSRPWRDLPETGVWLPEPPRTDPPQPPRPDDPWP
+                     AGPQPPENPWPPAPEVDNRPQEEPDLDPPREEYR"
+     sig_peptide     41..106
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    98..448
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9UIG4.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            96..868
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      847..852
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /note="hexamer: AATAAA"
+     polyA_site      868
+                     /gene="PSORS1C2"
+                     /gene_synonym="C6orf17; SPR1"
+                     /note="major polyA site"
+ORIGIN      
+        1 agactcagcc caccccagct ttgggggcca gtacatagcc atgatcctca actggaagct
+       61 cctggggatc ctggtccttt gcctgcacac cagaggcatc tcaggcagcg agggccaccc
+      121 ctctcaccca cccgcagagg accgagagga ggcaggctcc ccaacattgc ctcagggccc
+      181 cccagtcccc ggtgaccctt ggccaggggc accccctctc tttgaagatc ctccgcctac
+      241 ccgccccagt cgtccctgga gagacctgcc tgaaactgga gtctggctcc ctgaaccgcc
+      301 tagaacggat cctcctcaac ctccccggcc tgacgaccct tggccggcag gaccccagcc
+      361 cccagaaaac ccctggcctc ctgcccctga ggtggacaac cgacctcagg aggagccaga
+      421 cctagaccca ccccgggaag agtacagata atggagtccc ctcagccgtt ctgttcccag
+      481 gcatctccag gcacccacgc cctctccacc ctctgattcc ccgtgaattc ttcccaattt
+      541 agcctgtctc cttaaacctc ttcctcattc cctcggtttt attctgaacc cgtaaggtgg
+      601 tgttctcaat atttcctgtc ccctcctgag atccatactt agtcctcaca tcgcccgttt
+      661 tttcctctga cagcctaagc ctactctcct acctcgcctc caggcctcgg ccgcacctac
+      721 ctcccacccg gtcttcctgc ccgcgcgatc gctggggcag ggctatggta ctgtgttccc
+      781 ttctgccacc tggtggccgg cggcaggaac tatcagtaga cagctgctgc ttccatgaaa
+      841 cggaaaaata aaaatcatgt tttcttaa
+//
+
